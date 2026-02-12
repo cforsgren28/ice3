@@ -25,7 +25,7 @@ Assert statements of other severity levels will be reported, but not fail the wo
 
 ![My waveform for my ripple adder shows the test cases to ensure the adder was working correctly](waveformrippleadder.png)
 
-![This picture shows the entity of the ripple adder at the top level file](entity.png)
+![This picture shows the entity of the ripple adder at the top level file](entity-36Medium.png)
 
 ## Documentation
 
